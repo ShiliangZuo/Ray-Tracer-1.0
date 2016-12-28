@@ -1,0 +1,11 @@
+﻿  Main.cpp
+c:\onedrive\junior fall\ray tracing edx\ray tracer edx\main.cpp(17): warning C4005: 'INFINITY': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(78): note: see previous definition of 'INFINITY'
+c:\onedrive\junior fall\ray tracing edx\ray tracer edx\main.cpp(59): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\onedrive\junior fall\ray tracing edx\ray tracer edx\main.cpp(64): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\onedrive\junior fall\ray tracing edx\ray tracer edx\main.cpp(65): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\onedrive\junior fall\ray tracing edx\ray tracer edx\main.cpp(92): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\onedrive\junior fall\ray tracing edx\ray tracer edx\main.cpp(94): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\onedrive\junior fall\ray tracing edx\ray tracer edx\main.cpp(113): warning C4305: 'argument': truncation from 'double' to 'float'
+  Ray Tracer edx.vcxproj -> C:\OneDrive\Junior Fall\Ray Tracing edx\Ray Tracer edx\Debug\Ray Tracer edx.exe
+  Ray Tracer edx.vcxproj -> C:\OneDrive\Junior Fall\Ray Tracing edx\Ray Tracer edx\Debug\Ray Tracer edx.pdb (Partial PDB)

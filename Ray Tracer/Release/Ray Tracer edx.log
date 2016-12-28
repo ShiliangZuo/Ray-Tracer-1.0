@@ -1,0 +1,26 @@
+﻿  Main.cpp
+c:\my filesssssssssssss\ray tracer\ray tracer 1.0\ray tracer\Constants.h(10): warning C4005: 'INFINITY': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h(78): note: see previous definition of 'INFINITY'
+c:\my filesssssssssssss\ray tracer\ray tracer 1.0\ray tracer\Constants.h(13): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\my filesssssssssssss\ray tracer\ray tracer 1.0\ray tracer\Constants.h(15): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\my filesssssssssssss\ray tracer\ray tracer 1.0\ray tracer\Constants.h(17): warning C4305: 'argument': truncation from 'double' to 'float'
+Main.cpp(41): warning C4305: 'argument': truncation from 'double' to 'float'
+Main.cpp(81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Main.cpp(82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Main.cpp(83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Main.cpp(88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Main.cpp(89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Main.cpp(90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Main.cpp(104): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Main.cpp(105): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Main.cpp(106): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Main.cpp(111): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Main.cpp(112): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Main.cpp(113): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  1 of 459 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Ray Tracer edx.vcxproj -> C:\My Filesssssssssssss\Ray Tracer\Ray Tracer 1.0\Ray Tracer\Release\Ray Tracer edx.exe
+  Ray Tracer edx.vcxproj -> C:\My Filesssssssssssss\Ray Tracer\Ray Tracer 1.0\Ray Tracer\Release\Ray Tracer edx.pdb (Full PDB)

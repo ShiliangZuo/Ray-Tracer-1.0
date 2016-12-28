@@ -1,0 +1,25 @@
+﻿  Main.cpp
+c:\my filesssssssssssss\ray tracer\ray tracer 1.0\ray tracer\constants.h(4): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\my filesssssssssssss\ray tracer\ray tracer 1.0\ray tracer\constants.h(6): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\my filesssssssssssss\ray tracer\ray tracer 1.0\ray tracer\constants.h(8): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\my filesssssssssssss\ray tracer\ray tracer 1.0\ray tracer\main.cpp(22): warning C4005: 'INFINITY': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(78): note: see previous definition of 'INFINITY'
+c:\my filesssssssssssss\ray tracer\ray tracer 1.0\ray tracer\main.cpp(139): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\my filesssssssssssss\ray tracer\ray tracer 1.0\ray tracer\main.cpp(144): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\my filesssssssssssss\ray tracer\ray tracer 1.0\ray tracer\main.cpp(145): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\my filesssssssssssss\ray tracer\ray tracer 1.0\ray tracer\main.cpp(175): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\my filesssssssssssss\ray tracer\ray tracer 1.0\ray tracer\main.cpp(197): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\my filesssssssssssss\ray tracer\ray tracer 1.0\ray tracer\main.cpp(198): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\my filesssssssssssss\ray tracer\ray tracer 1.0\ray tracer\main.cpp(199): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\my filesssssssssssss\ray tracer\ray tracer 1.0\ray tracer\main.cpp(204): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\my filesssssssssssss\ray tracer\ray tracer 1.0\ray tracer\main.cpp(205): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\my filesssssssssssss\ray tracer\ray tracer 1.0\ray tracer\main.cpp(206): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\my filesssssssssssss\ray tracer\ray tracer 1.0\ray tracer\main.cpp(220): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\my filesssssssssssss\ray tracer\ray tracer 1.0\ray tracer\main.cpp(221): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\my filesssssssssssss\ray tracer\ray tracer 1.0\ray tracer\main.cpp(222): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\my filesssssssssssss\ray tracer\ray tracer 1.0\ray tracer\main.cpp(227): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\my filesssssssssssss\ray tracer\ray tracer 1.0\ray tracer\main.cpp(228): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\my filesssssssssssss\ray tracer\ray tracer 1.0\ray tracer\main.cpp(229): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  LINK : C:\My Filesssssssssssss\Ray Tracer\Ray Tracer 1.0\Ray Tracer\x64\Debug\Ray Tracer edx.exe not found or not built by the last incremental link; performing full link
+  Ray Tracer edx.vcxproj -> C:\My Filesssssssssssss\Ray Tracer\Ray Tracer 1.0\Ray Tracer\x64\Debug\Ray Tracer edx.exe
+  Ray Tracer edx.vcxproj -> C:\My Filesssssssssssss\Ray Tracer\Ray Tracer 1.0\Ray Tracer\x64\Debug\Ray Tracer edx.pdb (Partial PDB)
